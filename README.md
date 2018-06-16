@@ -1,6 +1,6 @@
 # front-end-1 nanodegree
 
-This repository contains all the projects given in udacity ###front end-1 nanodegree.  
+This repository contains all the projects given in udacity front end-1 nanodegree.  
 
 ---
 ### project-1
