@@ -1,4 +1,4 @@
-# <span style="color:blue">front-end-1 nanodegree</span>
+# front-end-1 nanodegree
 
 This repository contains all the projects given in udacity front end-1 nanodegree.  
 
