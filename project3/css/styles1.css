@@ -1,0 +1,48 @@
+*
+{
+	margin:0 auto;
+	padding:0;
+}
+
+.row
+{
+		border-bottom: 5px solid lightgrey;
+		padding:10px;
+}
+.container
+{
+	box-sizing: border-box;
+	margin:15px;
+	padding-top:15px;
+	padding-bottom: 15px;
+}
+.caption
+{
+	text-align: center;
+	font-weight: bold;
+}
+p
+{
+	 font-family: 'Gentium Book Basic', serif;
+	 font-size: 18px;
+}
+h1
+{
+	font-family: 'Anton', sans-serif;
+	font-size:39px;
+}
+h2
+{
+	font-family: 'Anton', sans-serif;
+	text-align:center;
+}
+h3
+{
+	font-family: 'Gentium Book Basic', serif;
+	font-size: 25px;
+}
+body
+{
+	background-color: lightyellow;
+	background-image: radial-gradient(lightyellow 40%,lightgrey);
+}
