@@ -1,0 +1,36 @@
+/* add your CSS here */
+.image
+{
+	width:300px;
+	height: 200px;
+	padding-bottom: 18px;
+}
+
+.fact
+{
+	font-style: italic;
+}
+.text
+{
+	font-weight: bold;
+}
+.outer
+{
+	border: 1px solid lightgrey;
+	padding:18px;
+	box-shadow:5px 10px 5px #D3D3D3; 
+	box-sizing: content-box;    
+    width: 300px;
+    height: 700px;
+}
+.outer1
+{
+	border:1px solid lightgrey;
+	padding:20px;
+}
+ul
+{
+	list-style-type: none;
+	padding:0px;
+
+}
